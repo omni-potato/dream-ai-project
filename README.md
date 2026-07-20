@@ -1,0 +1,1 @@
+# English Guardian prototype\n\nRun:\n\n```bash\npip install -r requirements.txt\nstreamlit run main.py\n```\n
